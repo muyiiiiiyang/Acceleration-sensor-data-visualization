@@ -1,7 +1,7 @@
 # Acceleration-sensor-data-visualization
 加速度传感器数据可视化
 # 加速度数据分析工具（GUI版）
-
+❗注意！本代码100%由chat GPT 生成
 该工具是一个基于 Python + Tkinter 的图形化界面程序，主要用于分析汽车等运动体的三轴加速度数据，提供数据读取、滤波处理、图像生成与导出等完整功能。
 
 ---
