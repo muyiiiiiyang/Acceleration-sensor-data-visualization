@@ -54,9 +54,6 @@ CSV 文件必须包含以下列：
 ---
 
 
-##效果预览
-![Uploading combined_acceleration_plot.png…]()
-
 ## 📌 依赖库
 - tkinter
 - pandas
